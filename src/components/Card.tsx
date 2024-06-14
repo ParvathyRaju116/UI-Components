@@ -14,7 +14,7 @@ const cardVariants = cva("rounded-lg shadow-md p-4", {
       secondary: "bg-yellow-100 border border-yellow-500 text-yellow-700",
     },
     size: {
-      md: "w-64 h-55", // Only keeping the "md" size
+      md: "w-64 h-55", 
     },
   },
   defaultVariants: {
